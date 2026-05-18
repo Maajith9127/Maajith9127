@@ -10,16 +10,32 @@
 
 - Motivation always fades.
 - Most routines collapse the moment discipline depends on mood.
-- I got tired of constantly breaking promises to myself.
+- Most productivity systems fail because they rely entirely on self-control.
 
 ## The Solution
 
-- I spent the last 6 months building CommitT around one idea:
-  
+- I built CommitT around a simple idea:
+
 > "When motivation fails, the system takes over."
 
-- If you fail to verify your habit, the app instantly triggers consequences.
-- That can mean losing money stakes, device restrictions, or automated accountability actions.
-- The goal is simple: remove excuses and force consistency.
+- The app verifies whether you actually completed the habit.
+- If you fail, the system immediately responds with consequences.
+- That can include money penalties, device restrictions, or automated accountability actions.
+- The goal is to make failure feel real enough that consistency becomes the easier option.
 
-## What CommitT Does Under the Hood
+## What Can CommitT Do?
+
+- Block selected apps during specific time periods
+- Automatically block apps when entering a specific location
+- Enable Strict Mode to prevent deleting commitments before they end
+- Prevent app uninstallation and settings tampering during active commitments
+- Set real penalties for failure, including money stakes or accountability actions
+- Force location-based check-ins for habits like gym, library, or study sessions
+- Require users to stay at a location for a full duration instead of just checking in once
+- Trigger randomized verification alarms during active sessions
+- Combine multiple systems together — for example:
+
+> Force yourself to stay at the library from 6 PM to 9 PM  
+> Block distracting apps while you're there  
+> Randomly verify your presence throughout the session  
+> Trigger penalties if you leave early or fail verification
