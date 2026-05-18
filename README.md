@@ -49,7 +49,7 @@ I've documented every single day of building this — you can check it at [commi
 <p align="left">
   <img src="https://img.shields.io/badge/BullMQ-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Zustand-181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Expo_SQLite-003B57?style=for-the-badge" />
 </p>
