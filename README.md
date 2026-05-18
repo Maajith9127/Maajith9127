@@ -2,27 +2,25 @@
 
 ---
 
-## <p style="font-size: 1.8rem; font-weight: 700; letter-spacing: -0.03em; color: #f0f6fc;">The Project: CommitT 🛡️</p>
+## <p style="font-size: 1.8rem; font-weight: 700; letter-spacing: -0.03em; color: #f0f6fc;">The Project: CommitT</p>
 
-### <p style="font-size: 1.4rem; line-height: 1.6; font-weight: 600; color: #58a6ff;">CommitT is a strict accountability app that physically locks down your phone, blocks distracting platforms, and restricts system settings to force you to stick to your goals.</p>
-
----
-
-## <p style="font-size: 1.8rem; font-weight: 700; letter-spacing: -0.03em; color: #f0f6fc;">The Problem: Willpower is a Lie</p>
-
-### <p style="font-size: 1.35rem; line-height: 1.6; font-weight: 400; color: #8b949e;">We’ve all been stuck in the same loop. You promise yourself you're going to stay disciplined—whether it's trying to hit the gym every single day or studying consistently so you aren't stressing before exams. For two weeks, you do great. Then motivation fades, a lazy day slips in, and your new habit completely vanishes. You're right back at square one.</p>
-
-### <p style="font-size: 1.35rem; line-height: 1.6; font-weight: 400; color: #8b949e;">Relying on simple willpower to change your habits doesn't work because motivation always runs out. I got tired of constantly breaking promises to myself, so I stopped trying to rely on a good mood and decided to build a solution.</p>
+### <p style="font-size: 1.4rem; line-height: 1.6; font-weight: 600; color: #58a6ff;">CommitT is an accountability app that physically locks down your phone, blocks distracting platforms, and forces you to stay consistent with your goals.</p>
 
 ---
 
-## <p style="font-size: 1.8rem; font-weight: 700; letter-spacing: -0.03em; color: #f0f6fc;">The Solution: A Digital Guardrail</p>
+## <p style="font-size: 1.8rem; font-weight: 700; letter-spacing: -0.03em; color: #f0f6fc;">The Problem: Motivation Always Fades</p>
 
-### <p style="font-size: 1.35rem; line-height: 1.6; font-weight: 400; color: #8b949e;">Instead of hoping I'd stay motivated, I spent the last 6 months engineering an unyielding system that forces me to follow through.</p>
+### <p style="font-size: 1.35rem; line-height: 1.6; font-weight: 400; color: #8b949e;">We’ve all been there. You try to hit the gym daily or study regularly, but after two weeks, the initial motivation drops, a lazy day slips in, and the routine completely collapses. Relying on a good mood to build discipline doesn't work long-term, and I got tired of constantly breaking promises to myself.</p>
 
-> # <p style="font-size: 1.8rem; font-weight: 800; color: #ff7b72; line-height: 1.4; letter-spacing: -0.04em;">"Don't rely on willpower. Build a digital guardrail that physically won't let you quit."</p>
+---
 
-### <p style="font-size: 1.35rem; line-height: 1.6; font-weight: 400; color: #8b949e;">CommitT targets the root of the problem by taking away the option to cheat. When your motivation inevitably drops, your own code steps in, overrides your hesitation, and holds you completely accountable to the parameters you set.</p>
+## <p style="font-size: 1.8rem; font-weight: 700; letter-spacing: -0.03em; color: #f0f6fc;">The Solution: Real-World Consequences</p>
+
+### <p style="font-size: 1.35rem; line-height: 1.6; font-weight: 400; color: #8b949e;">I spent the last 6 months building <b>CommitT</b> to force follow-through by introducing actual loss aversion to daily habits.</p>
+
+> # <p style="font-size: 1.8rem; font-weight: 800; color: #58a6ff; line-height: 1.4; letter-spacing: -0.04em;">"When motivation fails, the system takes over."</p>
+
+### <p style="font-size: 1.35rem; line-height: 1.6; font-weight: 400; color: #8b949e;">If you fail to verify your daily habit, the app penalizes you instantly—whether that means losing actual money stakes or having an embarrassing picture automatically texted to your friends. By raising the stakes, it eliminates excuses and forces execution.</p>
 
 ---
 
