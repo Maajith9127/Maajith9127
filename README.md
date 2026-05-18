@@ -45,6 +45,20 @@
 - Staying consistent while polishing my technical skills
 - Forcing myself to stay disciplined with fitness and getting into shape
 
+## Technologies I've Worked With
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,react,nextjs,nodejs,express,mongodb,mysql,redis,ts,js,tailwind,redux,graphql,laravel,kotlin" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/BullMQ-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zustand-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Expo_SQLite-003B57?style=for-the-badge" />
+</p>
+
 ## Demo Video
 
 [ Add demo video link here ]
