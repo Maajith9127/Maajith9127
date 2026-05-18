@@ -1,6 +1,6 @@
 # I don't trust willpower. So I built a system that makes quitting impossible.
 
-I'm Maajith — a builder who got tired of breaking promises to himself.
+I'm Maajith, and I build systems designed to reduce reliance on motivation through friction, accountability, and real-world consequences.
 Most productivity tools remind you. CommitT *forces* you.
 
 ---
@@ -11,11 +11,12 @@ An accountability app that enforces real consequences for inaction.
 No streaks. No reminders. If you fail, the system responds.
 
 - Locks down your phone and blocks distracting apps on a schedule
-- Forces location-based check-ins — you have to *actually* be there
+- Automatically locks apps the moment you enter a specific location
+- Forces you to actually show up — location check-in is required to start
+- Keeps you there — randomized verification alarms confirm you stayed the entire session
 - Strict Mode prevents you from deleting commitments mid-session
-- Randomized verification alarms catch you throughout a session
-- Real penalties for failure — money stakes, social exposure, accountability actions
 - Once a commitment is set, the backend locks the rules — you cannot lower your own stakes mid-session
+- Real penalties for failure — money stakes, social exposure, accountability actions
 - If you genuinely can't show up, a hardened waiver flow exists — but it has a hard deadline and can't be spoofed
 
 > Force yourself to stay at the library 6–9 PM. Block distracting apps while you're there.
