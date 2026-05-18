@@ -39,3 +39,12 @@
 > Block distracting apps while you're there  
 > Randomly verify your presence throughout the session  
 > Trigger penalties if you leave early or fail verification
+
+## How I Personally Use CommitT To Improve Myself
+
+- Staying consistent while polishing my technical skills
+- Forcing myself to stay disciplined with fitness and getting into shape
+
+## Demo Video
+
+[ Add demo video link here ]
