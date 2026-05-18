@@ -1,56 +1,45 @@
-# Hey there, I'm Maajith, and this is what I do.
+# I don't trust willpower. So I built a system that makes quitting impossible.
 
-## The Project: CommitT
+I'm Maajith — a builder who got tired of breaking promises to himself.
+Most productivity tools remind you. CommitT *forces* you.
 
-- CommitT is an accountability app built for people tired of relying on motivation.
-- Instead of reminders and streaks, the system enforces real consequences for inaction.
-- It can lock down your phone, block distracting platforms, and force follow-through on daily goals.
+---
 
-## The Problem
+## CommitT
 
-- Motivation always fades.
-- Most routines collapse the moment discipline depends on mood.
-- Most productivity systems fail because they rely entirely on self-control.
+An accountability app that enforces real consequences for inaction.
+No streaks. No reminders. If you fail, the system responds.
 
-## The Solution
+- Locks down your phone and blocks distracting apps on a schedule
+- Forces location-based check-ins — you have to *actually* be there
+- Strict Mode prevents you from deleting commitments mid-session
+- Randomized verification alarms catch you throughout a session
+- Real penalties for failure — money stakes, device restrictions, accountability actions
 
-- I built CommitT around a simple idea:
+> Force yourself to stay at the library 6–9 PM. Block distracting apps while you're there.
+> Random checks verify your presence. Leave early — face consequences.
 
-> "When motivation fails, the system takes over."
+**[Watch the demo →]( )**
 
-- The app verifies whether you actually completed the habit.
-- If you fail, the system immediately responds with consequences.
-- That can include money penalties, device restrictions, or automated accountability actions.
-- The goal is to make failure feel real enough that consistency becomes the easier option.
+---
 
-## What Can CommitT Do?
+## Why I Built It
 
-- Block selected apps during specific time periods
-- Automatically block apps when entering a specific location
-- Enable Strict Mode to prevent deleting commitments before they end
-- Prevent app uninstallation and settings tampering during active commitments
-- Set real penalties for failure, including money stakes or accountability actions
-- Force location-based check-ins for habits like gym, library, or study sessions
-- Require users to stay at a location for a full duration instead of just checking in once
-- Trigger randomized verification alarms during active sessions
-- Combine multiple systems together — for example:
+Willpower failed me every time. So I stopped relying on it.
 
-> Force yourself to stay at the library from 6 PM to 9 PM  
-> Block distracting apps while you're there  
-> Randomly verify your presence throughout the session  
-> Trigger penalties if you leave early or fail verification
+I cobbled together app blockers to force myself to the library and it worked —
+not because I got more disciplined, but because I made quitting harder than continuing.
+CommitT is that idea, fully built out.
 
-## How I Personally Use CommitT To Improve Myself
+I use it every day. For the gym. For shipping code. It's the reason this project exists.
 
-- Staying consistent while polishing my technical skills
-- Forcing myself to stay disciplined with fitness and getting into shape
+---
 
-## Technologies I've Worked With
+## Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,react,nextjs,nodejs,express,mongodb,mysql,redis,ts,js,tailwind,redux,graphql,laravel,kotlin" />
 </p>
-
 <p align="left">
   <img src="https://img.shields.io/badge/BullMQ-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Zustand-181717?style=for-the-badge" />
@@ -58,7 +47,3 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Expo_SQLite-003B57?style=for-the-badge" />
 </p>
-
-## Demo Video
-
-[ Add demo video link here ]
