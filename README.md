@@ -14,10 +14,13 @@ No streaks. No reminders. If you fail, the system responds.
 - Forces location-based check-ins — you have to *actually* be there
 - Strict Mode prevents you from deleting commitments mid-session
 - Randomized verification alarms catch you throughout a session
-- Real penalties for failure — money stakes, device restrictions, accountability actions
+- Real penalties for failure — money stakes, social exposure, accountability actions
+- Once a commitment is set, the backend locks the rules — you cannot lower your own stakes mid-session
+- If you genuinely can't show up, a hardened waiver flow exists — but it has a hard deadline and can't be spoofed
 
 > Force yourself to stay at the library 6–9 PM. Block distracting apps while you're there.
 > Random checks verify your presence. Leave early — face consequences.
+> Try to cheat the system — it already assumed you would.
 
 **[Watch the demo →]( )**
 
@@ -32,6 +35,8 @@ not because I got more disciplined, but because I made quitting harder than cont
 CommitT is that idea, fully built out.
 
 I use it every day. For the gym. For shipping code. It's the reason this project exists.
+
+I've documented every single day of building this — you can check it at [committ.mintlify.app](https://committ.mintlify.app)
 
 ---
 
