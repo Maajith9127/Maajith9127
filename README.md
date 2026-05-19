@@ -10,6 +10,7 @@ I’m a cross-platform developer, and I’ve built an accountability system that
 
 To build this system, I’ve worked with:
 
+- A monolithic architecture organized inside a Turborepo monorepo
 - React Native, Expo, TypeScript, Zustand, Reanimated, Expo SQLite
 - Kotlin, Accessibility Services, AlarmManager, WakeLocks, WindowManager overlays
 - High-accuracy foreground GPS enforcement using Google Fused Location Provider :contentReference[oaicite:0]{index=0}
