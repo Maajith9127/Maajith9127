@@ -13,12 +13,12 @@ To build this system, I’ve worked with:
 - A monolithic architecture organized inside a Turborepo monorepo
 - React Native, Expo, TypeScript, Zustand, Reanimated, Expo SQLite
 - Kotlin, Accessibility Services, AlarmManager, WakeLocks, WindowManager overlays
-- Native Android app enumeration using PackageManager + QUERY_ALL_PACKAGES permissions :contentReference[oaicite:0]{index=0}
-- High-accuracy foreground GPS enforcement using Google Fused Location Provider :contentReference[oaicite:1]{index=1}
+- Native Android app enumeration using PackageManager + QUERY_ALL_PACKAGES permissions
+- High-accuracy foreground GPS enforcement using Google Fused Location Provider
 - Convex, Node.js, SQLite, saga orchestration pipelines
 - React, Vite, Tauri
 - Bun, Turborepo, Google Maps API, Google Places API
 
 → Demo  
 → Architecture Docs  
-→ Documentation / Proof of Work: :contentReference[oaicite:2]{index=2}
+→ Documentation / Proof of Work: [committ.mintlify.app](https://committ.mintlify.app/)
