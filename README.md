@@ -12,6 +12,7 @@ To build this system, I’ve worked with:
 
 - React Native, Expo, TypeScript, Zustand, Reanimated, Expo SQLite
 - Kotlin, Accessibility Services, AlarmManager, WakeLocks, WindowManager overlays
+- High-accuracy foreground GPS enforcement using Google Fused Location Provider :contentReference[oaicite:0]{index=0}
 - Convex, Node.js, SQLite, saga orchestration pipelines
 - React, Vite, Tauri
 - Bun, Turborepo, Google Maps API, Google Places API
