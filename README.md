@@ -20,5 +20,5 @@ To build this system, I’ve worked with:
 - Bun, Turborepo, Google Maps API, Google Places API
 
 → Demo  
-→ Architecture Docs  
+→ Architecture Docs : [committ.mintlify.app](https://committ.mintlify.app)
 → Documentation / Proof of Work: [committ.mintlify.app](https://committ.mintlify.app/2025/december/day-05)
