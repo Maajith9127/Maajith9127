@@ -21,4 +21,4 @@ To build this system, I’ve worked with:
 
 → Demo  
 → Architecture Docs  
-→ Documentation / Proof of Work: [committ.mintlify.app](https://committ.mintlify.app/)
+→ Documentation / Proof of Work: [committ.mintlify.app](https://committ.mintlify.app/2025/december/day-05)
