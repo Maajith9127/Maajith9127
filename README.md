@@ -1,3 +1,4 @@
+```md
 I’m a cross-platform developer, and I’ve built an accountability system that does the following:
 
 - Miss your habit → lose money or automatically send an embarrassing photo to your friends
@@ -19,6 +20,11 @@ To build this system, I’ve worked with:
 - React, Vite, Tauri
 - Bun, Turborepo, Google Maps API, Google Places API
 
-→ Demo  
-→ Architecture Docs : [committ.mintlify.app](https://committ.mintlify.app)
-→ Documentation / Proof of Work: [committ.mintlify.app](https://committ.mintlify.app/2025/december/day-05)
+→ Demo
+
+→ Architecture Docs  
+https://committ.mintlify.app
+
+→ Documentation / Proof of Work  
+https://committ.mintlify.app/2025/december/day-05
+```
